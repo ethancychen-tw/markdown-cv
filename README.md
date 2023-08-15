@@ -1,3 +1,7 @@
+
+
+[See resume at https://ethancychen-tw.github.io/markdown-cv/]https://ethancychen-tw.github.io/markdown-cv/
+
 # markdown-cv
 
 A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
