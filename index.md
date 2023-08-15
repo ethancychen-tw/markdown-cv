@@ -1,13 +1,15 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Chung Yen (Ethan) Chen
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Chung Yen (Ethan) Chen
+Analytics Engineer, Data Scientist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://ethancychen-tw.github.io/markdown-cv/">https://ethancychen-tw.github.io/markdown-cv/</a>
+|   <a href="https://www.linkedin.com/in/ethancychen/">LinkedIn</a>
+    <a href="https://github.com/ethancychen-tw">Github</a>
+    <a href="ethan.cychen@gmail.com">Email</a>
 </div>
 
 
