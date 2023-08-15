@@ -29,22 +29,22 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`September 2023 - December 2024`
+`Sep 2023 - Dec 2024`
 __University of California, Los Angeles__
 
 - MS in Business Analytics
 
-`September 2017 – February 2018`
+`Sep 2017 – Feb 2018`
 __Université libre de Bruxelles__
 
 - Exchange program					 
 
-`September 2023 - February 2018`
+`Sep 2015 - Feb 2018`
 __National Taiwan University__
 
 - MBA in Information Management
 
-`September 2010 - Jine 2014`
+`Sep 2010 - Jun 2014`
 __National Tsing-Hua University__
 
 - B.S. in Computer Science
