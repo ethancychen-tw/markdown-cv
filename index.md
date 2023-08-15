@@ -6,7 +6,7 @@ title: Chung Yen (Ethan) Chen
 Analytics Engineer, Data Scientist
 
 <div id="webaddress">
-<a href="https://ethancychen-tw.github.io/markdown-cv/">https://ethancychen-tw.github.io/markdown-cv/</a>
+    <a href="https://ethancychen-tw.github.io/markdown-cv/">Resume</a>
 |   <a href="https://www.linkedin.com/in/ethancychen/">LinkedIn</a>
     <a href="https://github.com/ethancychen-tw">Github</a>
     <a href="ethan.cychen@gmail.com">Email</a>
@@ -15,7 +15,7 @@ Analytics Engineer, Data Scientist
 
 ## Currently
 
-Standing on the shoulders of giants
+Senior Engineer at MediaTek, Inc
 
 ### Specialized in
 
@@ -29,18 +29,25 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`September 2023 - December 2024`
+__University of California, Los Angeles__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- MS in Business Analytics
 
-- Sizar
+`September 2017 – February 2018`
+__Université libre de Bruxelles__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Exchange program					 
 
-- Fellow
+`September 2023 - February 2018`
+__National Taiwan University__
+
+- MBA in Information Management
+
+`September 2010 - Jine 2014`
+__National Tsing-Hua University__
+
+- B.S. in Computer Science
 
 
 
