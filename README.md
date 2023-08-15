@@ -10,6 +10,12 @@ For more details, see the [project page](http://elipapa.github.io/markdown-cv), 
 
 ***
 
+
+# reference
+jekyll: turn markdown into html  https://jekyllrb.com/
+Liquid: jekyll uses liquid from shopify  https://shopify.github.io/liquid/
+
+
 ## Customization
 
 Simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
