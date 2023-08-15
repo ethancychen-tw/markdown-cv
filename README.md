@@ -1,6 +1,6 @@
 
 
-[See resume at https://ethancychen-tw.github.io/markdown-cv/]https://ethancychen-tw.github.io/markdown-cv/
+[See resume at https://ethancychen-tw.github.io/markdown-cv/](https://ethancychen-tw.github.io/markdown-cv/)
 
 # markdown-cv
 
