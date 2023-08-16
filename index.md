@@ -3,7 +3,8 @@ layout: cv
 title: Chung Yen (Ethan) Chen
 ---
 # Chung Yen (Ethan) Chen
-Analytics Engineer, Data Scientist
+陳中彥
+Analytics Engineer / Data Scientist
 
 <div id="webaddress">
     <a href="https://ethancychen-tw.github.io/markdown-cv/">Resume</a> |
@@ -17,14 +18,9 @@ Analytics Engineer, Data Scientist
 
 Senior Engineer at MediaTek, Inc
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
 ## Experience
 
 `Aug 2022 - Sep 2023`
-
 __Senior Engineer__, [MediaTek Inc](https://i.mediatek.com/)
 
 - Led the development and system architectural design of the ELT pipeline on GCP for the service M (a resource usage monitoring system on mobile devices), resulting in 50% increase in efficiency for identifying any abnormalities on resource uasge, allowing different departments to quickly access a unified format of data and pinpoint any issues for mobile devices
@@ -36,7 +32,6 @@ __Senior Engineer__, [MediaTek Inc](https://i.mediatek.com/)
 - Led a technical workshop for 25 individuals in a cross-departmental training to introduce dbt and share best practices for managing large databases and setting up filter queries
 
 `Aug 2020 - Aug 2022`
-
 __Senior Data Scientist__, [Tresl Inc](https://www.tresl.co/)
 
 - Developed a unified metric calculation framework for analyzing Shopify DTC e-commerce brands’ products, consolidating 70% of the metric calculation process for millions of products across hundreds of millions of customer orders, emphasizing consistency, efficiency, and scalability
@@ -52,7 +47,6 @@ __Senior Data Scientist__, [Tresl Inc](https://www.tresl.co/)
 - Participated in the recruitment and growth of the data and engineering team, resulting in a 5x increase in team size
 
 `May 2019 - Aug 2020`
-
 __Data Scientist__, [MoBagel Inc](https://mobagel.com/)
 
 - Conducted research on state-of-the-art machine learning techniques to achieve up to 20% improved time series forecasting based on a generalized framework that can adapt to various industries including advertising, retailing, and manufacturing
@@ -60,11 +54,6 @@ __Data Scientist__, [MoBagel Inc](https://mobagel.com/)
 - Applied predictive analysis techniques to achieve an 80% close rate for enterprise projects, including identifying correlations among products in retailing, detecting low performing ads early with a two-stage XGBoost model resulting in 30% more return on ad spend and 30% cost savings in advertising, and developing a defect factor pipeline combining Chi-square testing and machine learning algorithms for display manufacturing process
 
 - Coordinated across departments on design and development of predictive features for internal SDKs, making it "sklearn-compatiable", managing entire projects to deliver effective client solutions
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
@@ -90,34 +79,25 @@ __National Tsing-Hua University__
 
 
 
-## Awards
+## Languages 
+Native Mandarin Speaker, Fluent English Speaker (Reading/Writing: Intermediate)
 
-`2012`
-President, *Royal Society*, London, UK
+## Computer Languages
+Python, SQL, R, JavaScript
 
-Associate, *French Academy of Science*, Paris, France
+## Tech Skills
+Flask, Selenium, dbt, dataform, Docker, AWS, GCP, Git, Jira, Airflow
 
+## Data Science
+Machine Learning, Statistics, Time Series, Statistics Process Control, NLP, Data Mining, AutoML
 
+## Projects
 
-## Publications
+- EPA Review system - Google App Script, LineBot, Flask, SQLAlchemy [Demo](https://www.youtube.com/watch?v=nB1bcGiC-Fg)
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Time Series Study - ARIMA, fbprohet, Random Forest, XGBoost [Slides](https://drive.google.com/file/d/1zoOWbdjLv7xqhk1bVw7-llSBszcZx1u7/view)
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+- Metagenomics Study - Hierarchical classification [Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2896-0)
 
 <!-- ### Footer
 
