@@ -83,9 +83,9 @@ Machine Learning, Statistics, Time Series, Statistics Process Control, NLP, Data
 
 ## Projects
 
-- EPA Review system - Google App Script, LineBot, Flask, SQLAlchemy [Demo](https://www.youtube.com/watch?v=nB1bcGiC-Fg)
-- Time Series Study - ARIMA, fbprohet, Random Forest, XGBoost [Slides](https://drive.google.com/file/d/1zoOWbdjLv7xqhk1bVw7-llSBszcZx1u7/view)
-- Metagenomics Study - Hierarchical classification [Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2896-0)
+- EPA Review system - Google App Script, LineBot, Flask, SQLAlchemy [[Demo]](https://www.youtube.com/watch?v=nB1bcGiC-Fg)
+- Time Series Study - ARIMA, fbprohet, Random Forest, XGBoost [[Slides]](https://drive.google.com/file/d/1zoOWbdjLv7xqhk1bVw7-llSBszcZx1u7/view)
+- Metagenomics Study - Hierarchical classification [[Paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2896-0)
 
 <!-- ### Footer
 
