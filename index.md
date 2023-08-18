@@ -82,32 +82,33 @@ Machine Learning, Statistics, Time Series, Statistics Process Control, NLP, Data
 
 ## Projects
 `2021`
-- EPA Review system - LineBot, Flask, SQLAlchemy, AWS [[Demo]](https://www.youtube.com/watch?v=nB1bcGiC-Fg)
+__EPA Review System__ _LineBot, Flask, SQLAlchemy, AWS_ [[Demo]](https://www.youtube.com/watch?v=nB1bcGiC-Fg)
 Built a grading and promoting platform for Taiwanese ENT doctors. The service boosts 5x efficiency in the evaluation process.
 
 `2021`
-- Web Crawler and Sentiment Analysis
+__Web Crawler and Sentiment Analysis__ _Selenium, ckiptagger, assoiciation rule mining_ 
 Collect public opinion data from Facebook Fan page using web crawler. Conduct NLP analysis for the economic stimulus policy in Taiwan during COVID-19 period. [[Source]](https://github.com/ethancychen-tw/sentiment_analysis)
 
 `2020-2021`
-- Data Science Courses for iLong [[Course Materials]](https://github.com/ethancychen-tw/Data_Science_Course_iLong) [[Lecture Clip]](https://youtu.be/Gn62vAyiky0)
+___Data Science Courses for iLong__ [[Course Materials]](https://github.com/ethancychen-tw/Data_Science_Course_iLong) [[Lecture Clip]](https://youtu.be/Gn62vAyiky0)
 This course was held for technical and non-technical people in an enterprise. Course is full of discussions and the income was donated to NGOs
 
 `2020` 
-- MileStone - Google App Script [[Slides]](https://docs.google.com/presentation/d/1YEUjbNgPbPLiWXkv2tDMZdm91YBhpvklIsEJi8EuSbk/edit?usp=sharing), [[Photo]](https://www.facebook.com/GDG.Taoyuan/posts/634692820616262), [[Study]](https://www.airitilibrary.com/Publication/alDetailedMesh?DocID=10196102-202109-202109100001-202109100001-155-163)
-Designed a system that incorporates G suite services and LineBot with Google App Script. Reduces human error in the evaluation process for Otolaryngology doctors in Taiwan. Gave case sharings on Google developer groups(GDG) and medical conferences. 
+__MileStone__ _Google App Script_ [[Slides]](https://docs.google.com/presentation/d/1YEUjbNgPbPLiWXkv2tDMZdm91YBhpvklIsEJi8EuSbk/edit?usp=sharing), [[Photo]](https://www.facebook.com/GDG.Taoyuan/posts/634692820616262), [[Study]](https://www.airitilibrary.com/Publication/alDetailedMesh?DocID=10196102-202109-202109100001-202109100001-155-163)
+
+Designed a system that incorporates G suite services. Reduced labor requirement and made evaluation process error free (from 7% to 0%) for evaluating ENT doctors in Taiwan. 
 
 `2020`
-- Soft Drinks Selling Amount Forecasting [[Slides]](https://drive.google.com/file/d/1zSSvhwHYQ7KeAv1TpuGK68bM22ribpYv/view)
+__Soft Drinks Selling Amount Forecasting__ [[Slides]](https://drive.google.com/file/d/1zSSvhwHYQ7KeAv1TpuGK68bM22ribpYv/view)
 Forecast monthly selling amounts for every month in the next 6 months for 70+ SKUs from the top soft drink manufacturer.  Achieve 20%-30% accuracy improvement among SKUs compared to methods used in the client’s data science team
 
 `2020`
-- Time Series Study - ARIMA, fbprohet, Random Forest, XGBoost [[Slides]](https://drive.google.com/file/d/1zoOWbdjLv7xqhk1bVw7-llSBszcZx1u7/view)
-Proposed a data preprocessing technique “delta transformation”. The technique effectively made tree-based models capable of making forecasts on the time series with trend components.
+__Time Series Study__  _ARIMA, fbprohet, Random Forest, XGBoost_ [[Slides]](https://drive.google.com/file/d/1zoOWbdjLv7xqhk1bVw7-llSBszcZx1u7/view)
+Proposed a data preprocessing technique “Delta Transformation”. The technique effectively made tree-based models capable of making forecasts on the time series with trend components.
 
 `2019`
-- Metagenomics Study - Hierarchical classification [[Paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2896-0)
-Paper “Taxonomy Based Performance Metrics for Evaluating Taxonomic Assignment Methods”, BMC BIOINFORMATICS, 20, 310. by Chung-Yen Chen, Sen-Lin Tang and Seng-Cho Chou.
+__Taxonomy Based Performance Metrics for Evaluating Taxonomic Assignment Methods__ [[Paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2896-0)
+Published a study in metagenomics that addressed the pitfalls in hierarchical multiclass classification.
 
 <!-- ### Footer
 
