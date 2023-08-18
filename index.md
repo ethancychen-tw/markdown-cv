@@ -94,12 +94,12 @@ __Web Crawler and Sentiment Analysis__ _Selenium, ckiptagger, assoiciation rule 
 `2020-2021`
 __Data Science Courses for iLong__ 
 
-- This course was held for technical and non-technical people in an enterprise. Course is full of discussions and the income was donated to NGOs. [[Course Materials]](https://github.com/ethancychen-tw/Data_Science_Course_iLong) [[Lecture Clip]](https://youtu.be/Gn62vAyiky0)
+- This course was held for technical and non-technical people in an enterprise. Course is full of discussions and the income was donated to NGOs. [ [Course Materials](https://github.com/ethancychen-tw/Data_Science_Course_iLong), [Lecture Clip](https://youtu.be/Gn62vAyiky0) ]
 
 `2020` 
 __MileStone__ _Google App Script_ 
 
-- Designed a system that incorporates G suite services. Reduced labor requirement and made evaluation process error free (from 7% to 0%) for evaluating ENT doctors in Taiwan. [[Slides](https://docs.google.com/presentation/d/1YEUjbNgPbPLiWXkv2tDMZdm91YBhpvklIsEJi8EuSbk/edit?usp=sharing), [Photo] (https://www.facebook.com/GDG.Taoyuan/posts/634692820616262), [Study](https://www.airitilibrary.com/Publication/alDetailedMesh?DocID=10196102-202109-202109100001-202109100001-155-163)]
+- Designed a system that incorporates G suite services. Reduced labor requirement and made evaluation process error free (from 7% to 0%) for evaluating ENT doctors in Taiwan. [ [Slides](https://docs.google.com/presentation/d/1YEUjbNgPbPLiWXkv2tDMZdm91YBhpvklIsEJi8EuSbk/edit?usp=sharing), [Photo] (https://www.facebook.com/GDG.Taoyuan/posts/634692820616262), [Study](https://www.airitilibrary.com/Publication/alDetailedMesh?DocID=10196102-202109-202109100001-202109100001-155-163) ]
 
 `2020`
 __Soft Drinks Selling Amount Forecasting__ 
