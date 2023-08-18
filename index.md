@@ -3,7 +3,6 @@ layout: cv
 title: Chung Yen (Ethan) Chen
 ---
 # Chung Yen (Ethan) Chen
-陳中彥
 Analytics Engineer / Data Scientist
 
 <div id="webaddress">
@@ -15,18 +14,18 @@ Analytics Engineer / Data Scientist
 
 
 ## Currently
-
-Senior Engineer at MediaTek, Inc
+Chung Yen Chen (陳中彥) is a senior Engineer at MediaTek, Inc. 
+#AnalyticsEngineering #ScrumMaster #Statistics #InterdisciplinaryCoordination
 
 ## Experience
 
 `Aug 2022 - Sep 2023`
 __Senior Engineer__, [MediaTek Inc](https://i.mediatek.com/)
-
+#
 - Led the development and system architectural design of the ELT pipeline on GCP for the service M (a resource usage monitoring system on mobile devices), resulting in 50% increase in efficiency for identifying any abnormalities on resource uasge, allowing different departments to quickly access a unified format of data and pinpoint any issues for mobile devices
-- Initiated and coordinated the M development team as a scrum master. Reduced the request to production time by 50%.
+- Initiated and coordinated the M team as a scrum master. Reduced the request to production time by 50%.
 - Collaborated with IT department to consider infrastructure constraints for ELT pipeline, selecting appropriate tech stack, including Dash, Redis, and Drone CI, Airflow, Dataform, and developing the data-models and queries needed to create front-end dashboards and handcrafted charts to display M analyses, reducing analytics processing time of M data by 90%
-- Led a technical workshop for 25 individuals in a cross-departmental training to introduce dbt and share best practices for managing large databases and setting up filter queries
+- Led a technical workshop for 40 individuals in a cross-departmental training to introduce dbt, dataform and share best practices for managing large databases and setting up filter queries
 
 `Aug 2020 - Aug 2022`
 __Senior Data Scientist__, [Tresl Inc](https://www.tresl.co/)
@@ -44,6 +43,12 @@ __Data Scientist__, [MoBagel Inc](https://mobagel.com/)
 - Conducted research on state-of-the-art machine learning techniques to achieve up to 20% improved time series forecasting based on a generalized framework that can adapt to various industries including advertising, retailing, and manufacturing
 - Applied predictive analysis techniques to achieve an 80% close rate for enterprise projects, including identifying correlations among products in retailing, detecting low performing ads early with a two-stage XGBoost model resulting in 30% more return on ad spend and 30% cost savings in advertising, and developing a defect factor pipeline combining Chi-square testing and machine learning algorithms for display manufacturing process
 - Coordinated across departments on design and development of predictive features for internal SDKs, making it "sklearn-compatiable", managing entire projects to deliver effective client solutions
+
+- Host design thinking workshops for plug-in ideatnig. 
+
+`Aug 2016 - Dec 2016`
+__Big Data Analyst(Internship)__, [Delta Eletronics](https://www.deltaww.com/en-US/index)
+- Searched, compared, summarized the techniques applied in metagenomic data analytics. Constructed the first NGS operational taxonomic unit(OTU) data analytical pipeline in Delta. 
 
 ## Education
 
@@ -67,11 +72,6 @@ __National Tsing-Hua University__
 
 - B.S. in Computer Science
 
-
-
-## Languages 
-Native Mandarin Speaker, Fluent English Speaker (Reading/Writing: Intermediate)
-
 ## Computer Languages
 Python, SQL, R, JavaScript
 
@@ -83,9 +83,27 @@ Machine Learning, Statistics, Time Series, Statistics Process Control, NLP, Data
 
 ## Projects
 
-- EPA Review system - Google App Script, LineBot, Flask, SQLAlchemy [[Demo]](https://www.youtube.com/watch?v=nB1bcGiC-Fg)
+- EPA Review system - LineBot, Flask, SQLAlchemy, AWS [[Demo]](https://www.youtube.com/watch?v=nB1bcGiC-Fg)
+Built a grading and promoting platform for Taiwanese ENT doctors. The service boosts 5x efficiency in the evaluation process. 
+
+- MileStone - Google App Script [[Slides]](https://docs.google.com/presentation/d/1YEUjbNgPbPLiWXkv2tDMZdm91YBhpvklIsEJi8EuSbk/edit?usp=sharing), [[Photo]](https://www.facebook.com/GDG.Taoyuan/posts/634692820616262), [[Study]](https://www.airitilibrary.com/Publication/alDetailedMesh?DocID=10196102-202109-202109100001-202109100001-155-163)
+Designed a system that incorporates G suite services and LineBot with Google App Script. Reduces human error in the evaluation process for Otolaryngology doctors in Taiwan. Gave case sharings on Google developer groups(GDG) and medical conferences. 
+
 - Time Series Study - ARIMA, fbprohet, Random Forest, XGBoost [[Slides]](https://drive.google.com/file/d/1zoOWbdjLv7xqhk1bVw7-llSBszcZx1u7/view)
+Proposed a data preprocessing technique “delta transformation”. The technique effectively made tree-based models capable of making forecasts on the time series with trend components.
+`2019`
 - Metagenomics Study - Hierarchical classification [[Paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2896-0)
+Paper “Taxonomy Based Performance Metrics for Evaluating Taxonomic Assignment Methods”, BMC BIOINFORMATICS, 20, 310. by Chung-Yen Chen, Sen-Lin Tang and Seng-Cho Chou.
+`2021`
+- Web Crawler and Sentiment Analysis
+Collect public opinion data from Facebook Fan page using web crawler. Conduct NLP analysis for the economic stimulus policy in Taiwan during COVID-19 period. [[Source]](https://github.com/ethancychen-tw/sentiment_analysis)
+`2020-2021`
+- Data Science Courses for iLong [[Course Materials]](https://github.com/ethancychen-tw/Data_Science_Course_iLong) [[Lecture Clip]](https://youtu.be/Gn62vAyiky0)
+This course was held for technical and non-technical people in an enterprise. Course is full of discussions and the income was donated to NGOs
+
+`2020`
+- Soft Drinks Selling Amount Forecasting [[Slides]](https://drive.google.com/file/d/1zSSvhwHYQ7KeAv1TpuGK68bM22ribpYv/view)
+Forecast monthly selling amounts for every month in the next 6 months for 70+ SKUs from the top soft drink manufacturer.  Achieve 20%-30% accuracy improvement among SKUs compared to methods used in the client’s data science team
 
 <!-- ### Footer
 
