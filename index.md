@@ -15,7 +15,8 @@ Analytics Engineer / Data Scientist
 
 ## Currently
 Chung Yen Chen (陳中彥) is a senior Engineer at MediaTek, Inc. 
-#AnalyticsEngineering #ScrumMaster #Statistics #InterdisciplinaryCoordination
+
+_#Analytics Engineering_ _#Scrum Master_ _#Statistics_ _#Interdisciplinary Coordination_
 
 ## Experience
 
@@ -43,8 +44,6 @@ __Data Scientist__, [MoBagel Inc](https://mobagel.com/)
 - Conducted research on state-of-the-art machine learning techniques to achieve up to 20% improved time series forecasting based on a generalized framework that can adapt to various industries including advertising, retailing, and manufacturing
 - Applied predictive analysis techniques to achieve an 80% close rate for enterprise projects, including identifying correlations among products in retailing, detecting low performing ads early with a two-stage XGBoost model resulting in 30% more return on ad spend and 30% cost savings in advertising, and developing a defect factor pipeline combining Chi-square testing and machine learning algorithms for display manufacturing process
 - Coordinated across departments on design and development of predictive features for internal SDKs, making it "sklearn-compatiable", managing entire projects to deliver effective client solutions
-
-- Host design thinking workshops for plug-in ideatnig. 
 
 `Aug 2016 - Dec 2016`
 __Big Data Analyst(Internship)__, [Delta Eletronics](https://www.deltaww.com/en-US/index)
@@ -82,13 +81,12 @@ Flask, Selenium, dbt, dataform, Docker, AWS, GCP, Git, Jira, Airflow
 Machine Learning, Statistics, Time Series, Statistics Process Control, NLP, Data Mining, AutoML
 
 ## Projects
-
+`2021`
 - EPA Review system - LineBot, Flask, SQLAlchemy, AWS [[Demo]](https://www.youtube.com/watch?v=nB1bcGiC-Fg)
-Built a grading and promoting platform for Taiwanese ENT doctors. The service boosts 5x efficiency in the evaluation process. 
-
+Built a grading and promoting platform for Taiwanese ENT doctors. The service boosts 5x efficiency in the evaluation process.
+`2020` 
 - MileStone - Google App Script [[Slides]](https://docs.google.com/presentation/d/1YEUjbNgPbPLiWXkv2tDMZdm91YBhpvklIsEJi8EuSbk/edit?usp=sharing), [[Photo]](https://www.facebook.com/GDG.Taoyuan/posts/634692820616262), [[Study]](https://www.airitilibrary.com/Publication/alDetailedMesh?DocID=10196102-202109-202109100001-202109100001-155-163)
 Designed a system that incorporates G suite services and LineBot with Google App Script. Reduces human error in the evaluation process for Otolaryngology doctors in Taiwan. Gave case sharings on Google developer groups(GDG) and medical conferences. 
-
 - Time Series Study - ARIMA, fbprohet, Random Forest, XGBoost [[Slides]](https://drive.google.com/file/d/1zoOWbdjLv7xqhk1bVw7-llSBszcZx1u7/view)
 Proposed a data preprocessing technique “delta transformation”. The technique effectively made tree-based models capable of making forecasts on the time series with trend components.
 `2019`
@@ -100,7 +98,6 @@ Collect public opinion data from Facebook Fan page using web crawler. Conduct NL
 `2020-2021`
 - Data Science Courses for iLong [[Course Materials]](https://github.com/ethancychen-tw/Data_Science_Course_iLong) [[Lecture Clip]](https://youtu.be/Gn62vAyiky0)
 This course was held for technical and non-technical people in an enterprise. Course is full of discussions and the income was donated to NGOs
-
 `2020`
 - Soft Drinks Selling Amount Forecasting [[Slides]](https://drive.google.com/file/d/1zSSvhwHYQ7KeAv1TpuGK68bM22ribpYv/view)
 Forecast monthly selling amounts for every month in the next 6 months for 70+ SKUs from the top soft drink manufacturer.  Achieve 20%-30% accuracy improvement among SKUs compared to methods used in the client’s data science team
