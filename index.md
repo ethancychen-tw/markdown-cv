@@ -3,14 +3,14 @@ layout: cv
 title: Chung Yen (Ethan) Chen
 ---
 # Chung Yen (Ethan) Chen
-Analytics Engineer / Data Scientist
+Analytics Engineer / Data Scientist 
 
-<div id="webaddress">
-    <a href="https://ethancychen-tw.github.io/markdown-cv/">CV</a> |
-    <a href="https://www.linkedin.com/in/ethancychen/">LinkedIn</a> | 
-    <a href="https://github.com/ethancychen-tw">Github</a> | 
-    <a href="ethan.cychen@gmail.com">Email</a>
-</div>
+[ethan.cychen@gmail.com](ethan.cychen@gmail.com) 
+|
+[LinkedIn: ethancychen](https://www.linkedin.com/in/ethancychen/)
+|
+[Github: ethancychen-tw](https://github.com/ethancychen-tw)
+
 
 ## Experience
 
@@ -19,7 +19,7 @@ __Senior Engineer__, [MediaTek Inc](https://i.mediatek.com/)
 
 - Led the development and system architectural design of the ELT pipeline on GCP for the service M (a resource usage monitoring system on mobile devices), resulting in 50% increase in efficiency for identifying any abnormalities on resource uasge, allowing departments to quickly access a unified format of data and pinpoint any issues for mobile devices
 - Collaborated with IT department to consider infrastructure constraints for ELT pipeline, selecting appropriate tech stack, including Dash, Redis, and Drone CI, Airflow, Dataform, and developing the data-models and queries needed to create front-end dashboards, reducing analytics processing time of M data by 90%
-- Led a technical workshop for 40 individuals in a cross-departmental training to introduce dbt, dataform and share best practices for managing large databases and setting up filter queries
+- Led technical workshops for 40 individuals in a cross-departmental training to introduce dbt, dataform and share best practices for managing large databases and setting up filter queries
 
 `Aug 2020 - Aug 2022`
 __Senior Data Scientist__, [Tresl Inc](https://www.tresl.co/)
@@ -33,50 +33,34 @@ __Senior Data Scientist__, [Tresl Inc](https://www.tresl.co/)
 __Data Scientist__, [MoBagel Inc](https://mobagel.com/)
 
 - Conducted research on state-of-the-art machine learning techniques to achieve up to 20% improved time series forecasting based on a generalized framework that can adapt to various industries including advertising, retailing, and manufacturing
-- Applied predictive analysis techniques to achieve an 80% close rate for enterprise projects, including identifying correlations among products in retailing and detecting low performing ads early with a two-stage XGBoost model resulting in 30% more return on ad spend and 30% cost savings in advertising.
-- Coordinated across departments on design and development of predictive features for internal SDKs, making it "sklearn-compatiable", managing entire projects to deliver effective client solutions
+- Applied predictive analysis techniques to achieve an 80% close rate for enterprise projects, including identifying correlations among products in retailing and detecting low performing ads early resulting in 30% more return on ad spend and 30% cost savings in advertising.
+- Coordinated across departments on design and development of predictive features for internal SDKs, making it "sklearn-compatiable", managing entire projects to deliver effective solutions
 
 ## Education
 
 `Sep 2023 - Dec 2024`
-__University of California, Los Angeles__
-
-- MS in Business Analytics			 
+- University of California, Los Angeles - MS in Business Analytics			 
 
 `Sep 2015 - Feb 2018`
-__National Taiwan University__
-
-- MBA in Information Management
+- National Taiwan University - MBA in Information Management
 
 `Sep 2010 - Jun 2014`
-__National Tsing-Hua University__
+- National Tsing-Hua University - BS in Computer Science
 
-- B.S. in Computer Science
-
-## Computer Languages
-Python, SQL, R, JavaScript
-
-## Tech Skills
-Flask, Selenium, dbt, dataform, Docker, AWS, GCP, Git, Jira, Airflow
-
-## Data Science
-Machine Learning, Statistics, Time Series, Statistics Process Control, NLP, Data Mining, AutoML
+## Skills
+- Programming: Python, SQL, R, JavaScript
+- Tech: Flask, Selenium, dbt, dataform, Docker, AWS, GCP, Git, Jira, Airflow
+- Data Science: Machine Learning, Statistics, Time Series, Data Mining
 
 ## Projects
 `2021`
-__EPA Review System__ _LineBot, Flask, SQLAlchemy, AWS_ 
-
-- Built a grading and promoting platform for Taiwanese ENT doctors. The service boosts 5x efficiency in the evaluation process. [[Demo]](https://www.youtube.com/watch?v=nB1bcGiC-Fg)
+__EPA Review System__ _LineBot, Flask, AWS_ , Built a grading and promoting platform for Taiwanese ENT doctors. 5x efficiency in the evaluation process. [[Demo]](https://www.youtube.com/watch?v=nB1bcGiC-Fg)
 
 `2020`
-__Time Series Study__  _ARIMA, fbprohet, Random Forest, XGBoost_ 
-
-- Proposed a data preprocessing technique “Delta Transformation”. The technique effectively made tree-based models capable of making forecasts on the time series with trend components.[[Slides]](https://drive.google.com/file/d/1zoOWbdjLv7xqhk1bVw7-llSBszcZx1u7/view)
+__Time Series Study__  _ARIMA, fbprohet, Random Forest, XGBoost_ , Proposed a data preprocessing technique “Delta Transformation”, making tree-based models capable of making forecasts on the time series with trend components.[[Slides]](https://drive.google.com/file/d/1zoOWbdjLv7xqhk1bVw7-llSBszcZx1u7/view)
 
 `2019`
-__Taxonomy Based Performance Metrics for Evaluating Taxonomic Assignment Methods__ 
-
-- Published a study in metagenomics that addressed the pitfalls in hierarchical multiclass classification. [[Paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2896-0)
+__Taxonomy Based Performance Metrics for Evaluating Taxonomic Assignment Methods__, Published a study in metagenomics that addressed the pitfalls in hierarchical multiclass classification. [[Paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2896-0)
 
 <!-- ### Footer
 
