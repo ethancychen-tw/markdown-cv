@@ -5,6 +5,8 @@ title: Chung Yen (Ethan) Chen
 # Chung Yen (Ethan) Chen
 Analytics Engineer / Data Scientist 
 
+[CV](https://ethancychen-tw.github.io/markdown-cv/)
+|
 [ethan.cychen@gmail.com](ethan.cychen@gmail.com) 
 |
 [LinkedIn: ethancychen](https://www.linkedin.com/in/ethancychen/)
