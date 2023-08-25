@@ -16,15 +16,12 @@ Analytics Engineer / Data Scientist
 ## Currently
 Chung Yen Chen (陳中彥) is a senior Engineer at MediaTek, Inc. 
 
-_#Analytics Engineering_ _#Scrum Master_ _#Statistics_ _#Interdisciplinary Coordination_
-
 ## Experience
 
 `Aug 2022 - Sep 2023`
 __Senior Engineer__, [MediaTek Inc](https://i.mediatek.com/)
 
-- Led the development and system architectural design of the ELT pipeline on GCP for the service M (a resource usage monitoring system on mobile devices), resulting in 50% increase in efficiency for identifying any abnormalities on resource uasge, allowing different departments to quickly access a unified format of data and pinpoint any issues for mobile devices
-- Initiated and coordinated the M team as a scrum master. Reduced the request to production time by 50%.
+- Led the development and system architectural design of the ELT pipeline on GCP for the service M (a resource usage monitoring system on mobile devices), resulting in 30x increase in efficiency for identifying any abnormalities on resource, allowing different departments to quickly access a unified format of data and pinpoint any issues for mobile devices.
 - Collaborated with IT department to consider infrastructure constraints for ELT pipeline, selecting appropriate tech stack, including Dash, Redis, and Drone CI, Airflow, Dataform, and developing the data-models and queries needed to create front-end dashboards and handcrafted charts to display M analyses, reducing analytics processing time of M data by 90%
 - Led a technical workshop for 40 individuals in a cross-departmental training to introduce dbt, dataform and share best practices for managing large databases and setting up filter queries
 
@@ -80,6 +77,9 @@ Flask, Selenium, dbt, dataform, Docker, AWS, GCP, Git, Jira, Airflow
 ## Data Science
 Machine Learning, Statistics, Time Series, Statistics Process Control, NLP, Data Mining, AutoML
 
+## Project Management
+Scrum, Shape up, Desgin Thinking
+
 ## Projects
 `2021`
 __EPA Review System__ _LineBot, Flask, SQLAlchemy, AWS_ 
@@ -99,7 +99,7 @@ __Data Science Courses for iLong__
 `2020` 
 __MileStone__ _Google App Script_ 
 
-- Designed a system that incorporates G suite services. Reduced labor requirement and made evaluation process error free (from 7% to 0%) for evaluating ENT doctors in Taiwan. [ [Slides](https://docs.google.com/presentation/d/1YEUjbNgPbPLiWXkv2tDMZdm91YBhpvklIsEJi8EuSbk/edit?usp=sharing), [Photo] (https://www.facebook.com/GDG.Taoyuan/posts/634692820616262), [Study](https://www.airitilibrary.com/Publication/alDetailedMesh?DocID=10196102-202109-202109100001-202109100001-155-163) ]
+- Designed a system that incorporates G suite services. Reduced labor requirement and made evaluation process error free (from 7% to 0%) for evaluating ENT doctors in Taiwan. [ [Slides](https://docs.google.com/presentation/d/1YEUjbNgPbPLiWXkv2tDMZdm91YBhpvklIsEJi8EuSbk/edit?usp=sharing), [Photo](https://www.facebook.com/GDG.Taoyuan/posts/634692820616262), [Study](https://www.airitilibrary.com/Publication/alDetailedMesh?DocID=10196102-202109-202109100001-202109100001-155-163) ]
 
 `2020`
 __Soft Drinks Selling Amount Forecasting__ 
