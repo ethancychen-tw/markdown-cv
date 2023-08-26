@@ -44,7 +44,8 @@ __Data Scientist__, [MoBagel Inc](https://mobagel.com/)
 
 `Aug 2016 - Dec 2016`
 __Big Data Analyst(Internship)__, [Delta Eletronics](https://www.deltaww.com/en-US/index)
-- Searched, compared, summarized the techniques applied in metagenomic data analytics. Constructed the first NGS operational taxonomic unit(OTU) data analytical pipeline in Delta. 
+- Searched, compared, summarized the techniques applied in metagenomic data analytics. Constructed the first NGS operational taxonomic unit(OTU) data analytical pipeline in Delta.  
+- Cooperated with faculties with life science backgrounds while I had few knowledge about sequencing and metagenomics. Published a paper about performance evaluation in OTU analysis on a top-ranked journal. 
 
 ## Education
 
