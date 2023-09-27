@@ -3,18 +3,16 @@ layout: cv
 title: Chung Yen (Ethan) Chen
 ---
 # Chung Yen (Ethan) Chen
-Analytics Engineer / Data Scientist
+
 
 <div id="webaddress">
+Analytics Engineer / Data Scientist
+<br>
     <a href="https://ethancychen-tw.github.io/markdown-cv/">Resume</a> |
     <a href="https://www.linkedin.com/in/ethancychen/">LinkedIn</a> | 
     <a href="https://github.com/ethancychen-tw">Github</a> | 
-    <a href="ethan.cychen@gmail.com">Email</a>
+    <a href="mailto:ethan.cychen@gmail.com">Email</a>
 </div>
-
-
-## Currently
-Chung Yen Chen (陳中彥) is a senior Engineer at MediaTek, Inc. 
 
 ## Experience
 
