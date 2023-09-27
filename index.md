@@ -3,18 +3,16 @@ layout: cv
 title: Chung Yen (Ethan) Chen
 ---
 # Chung Yen (Ethan) Chen
-Analytics Engineer / Data Scientist
+
 
 <div id="webaddress">
+Analytics Engineer / Data Scientist
+<br>
     <a href="https://ethancychen-tw.github.io/markdown-cv/">Resume</a> |
     <a href="https://www.linkedin.com/in/ethancychen/">LinkedIn</a> | 
     <a href="https://github.com/ethancychen-tw">Github</a> | 
-    <a href="ethan.cychen@gmail.com">Email</a>
+    <a href="mailto:ethan.cychen@gmail.com">Email</a>
 </div>
-
-
-## Currently
-Chung Yen Chen (陳中彥) is a senior Engineer at MediaTek, Inc. 
 
 ## Experience
 
@@ -44,7 +42,8 @@ __Data Scientist__, [MoBagel Inc](https://mobagel.com/)
 
 `Aug 2016 - Dec 2016`
 __Big Data Analyst(Internship)__, [Delta Eletronics](https://www.deltaww.com/en-US/index)
-- Searched, compared, summarized the techniques applied in metagenomic data analytics. Constructed the first NGS operational taxonomic unit(OTU) data analytical pipeline in Delta. 
+- Searched, compared, summarized the techniques applied in metagenomic data analytics. Constructed the first NGS operational taxonomic unit(OTU) data analytical pipeline in Delta.  
+- Cooperated with faculties with life science backgrounds while I had few knowledge about sequencing and metagenomics. Published a paper about performance evaluation in OTU analysis on a top-ranked journal. 
 
 ## Education
 
