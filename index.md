@@ -12,6 +12,8 @@ Analytics Engineer / Data Scientist
 [LinkedIn: ethancychen](https://www.linkedin.com/in/ethancychen/)
 |
 [Github: ethancychen-tw](https://github.com/ethancychen-tw)
+|
+4244685129
 
 
 ## Experience
