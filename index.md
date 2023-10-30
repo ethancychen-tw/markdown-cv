@@ -4,9 +4,9 @@ title: Chung Yen (Ethan) Chen
 ---
 # Chung Yen (Ethan) Chen
 
-
 <div id="webaddress">
 Analytics Engineer / Data Scientist
+(424) 468-5129 | Los Angeles, CA
 <br>
     <a href="https://ethancychen-tw.github.io/markdown-cv/">Resume</a> |
     <a href="https://www.linkedin.com/in/ethancychen/">LinkedIn</a> | 
@@ -47,11 +47,6 @@ __Big Data Analyst(Internship)__, [Delta Eletronics](https://www.deltaww.com/en-
 
 ## Education
 
-`Sep 2023 - Dec 2024`
-__University of California, Los Angeles__
-
-- MS in Business Analytics
-
 `Sep 2017 – Feb 2018`
 __Université libre de Bruxelles__
 
@@ -81,22 +76,22 @@ Scrum, Shape up, Desgin Thinking
 
 ## Projects
 `2021`
-__EPA Review System__ _LineBot, Flask, SQLAlchemy, AWS_ 
+__EPA Review System__ _(LineBot SDK, Flask, SQLAlchemy, AWS)_ 
 
 - Built a grading and promoting platform for Taiwanese ENT doctors. The service boosts 5x efficiency in the evaluation process. [[Demo]](https://www.youtube.com/watch?v=nB1bcGiC-Fg)
 
 `2021`
-__Web Crawler and Sentiment Analysis__ _Selenium, ckiptagger, assoiciation rule mining_ 
+__Web Crawler and Sentiment Analysis__ _(Selenium, ckiptagger, assoiciation rule mining)_ 
 
 - Collect public opinion data from Facebook Fan page using web crawler. Conduct NLP analysis for the economic stimulus policy in Taiwan during COVID-19 period. [[Source]](https://github.com/ethancychen-tw/sentiment_analysis)
 
 `2020-2021`
-__Data Science Courses for iLong__ 
+__Data Science Courses for iLong__ _(Python, pandas, scikit-learn)_
 
 - This course was held for technical and non-technical people in an enterprise. Course is full of discussions and the income was donated to NGOs. [ [Course Materials](https://github.com/ethancychen-tw/Data_Science_Course_iLong), [Lecture Clip](https://youtu.be/Gn62vAyiky0) ]
 
 `2020` 
-__MileStone__ _Google App Script_ 
+__MileStone__ _(Google App Script)_ 
 
 - Designed a system that incorporates G suite services. Reduced labor requirement and made evaluation process error free (from 7% to 0%) for evaluating ENT doctors in Taiwan. [ [Slides](https://docs.google.com/presentation/d/1YEUjbNgPbPLiWXkv2tDMZdm91YBhpvklIsEJi8EuSbk/edit?usp=sharing), [Photo](https://www.facebook.com/GDG.Taoyuan/posts/634692820616262), [Study](https://www.airitilibrary.com/Publication/alDetailedMesh?DocID=10196102-202109-202109100001-202109100001-155-163) ]
 
@@ -106,7 +101,7 @@ __Soft Drinks Selling Amount Forecasting__
 - Forecast monthly selling amounts for every month in the next 6 months for 70+ SKUs from the top soft drink manufacturer.  Achieve 20%-30% accuracy improvement among SKUs compared to methods used in the client’s data science team. [[Slides]](https://drive.google.com/file/d/1zSSvhwHYQ7KeAv1TpuGK68bM22ribpYv/view)
 
 `2020`
-__Time Series Study__  _ARIMA, fbprohet, Random Forest, XGBoost_ 
+__Time Series Study__  _(ARIMA, fbprohet, Random Forest, XGBoost)_ 
 
 - Proposed a data preprocessing technique “Delta Transformation”. The technique effectively made tree-based models capable of making forecasts on the time series with trend components.[[Slides]](https://drive.google.com/file/d/1zoOWbdjLv7xqhk1bVw7-llSBszcZx1u7/view)
 
