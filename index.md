@@ -6,12 +6,13 @@ title: Chung Yen (Ethan) Chen
 
 <div id="webaddress">
 Analytics Engineer / Data Scientist
-(424) 468-5129 | Los Angeles, CA
+
 <br>
     <a href="https://ethancychen-tw.github.io/markdown-cv/">Resume</a> |
     <a href="https://www.linkedin.com/in/ethancychen/">LinkedIn</a> | 
     <a href="https://github.com/ethancychen-tw">Github</a> | 
-    <a href="mailto:ethan.cychen@gmail.com">Email</a>
+    <a href="mailto:ethan.cychen@gmail.com">Email</a>|
+    (424) 468-5129 | Los Angeles, CA 
 </div>
 
 ## Experience
