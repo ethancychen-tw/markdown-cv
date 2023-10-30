@@ -3,13 +3,11 @@ layout: cv
 title: Chung Yen (Ethan) Chen
 ---
 # Chung Yen (Ethan) Chen
-Analytics Engineer / Data Scientist 
+Analytics Engineer / Data Scientist  
+(424) 468-5129 |  Los Angeles, CA
 
 [CV](https://ethancychen-tw.github.io/markdown-cv/)
 |
-(424)468-5129
-| 
-Los Angeles, CA
 [ethan.cychen@gmail.com](ethan.cychen@gmail.com) 
 |
 [LinkedIn: ethancychen](https://www.linkedin.com/in/ethancychen/)
@@ -44,10 +42,10 @@ __Data Scientist__, [MOBAGEL INC](https://mobagel.com/)
 ## Education	 
 
 `Sep 2015 - Feb 2018`
-- NATIONAL TAIWAN UNIVERSITY - MBA in Information Management
+- National Taiwan University - MBA in Information Management
 
 `Sep 2010 - Jun 2014`
-- NATIONAL TSING-HUA UNIVERSITY - BS in Computer Science
+- National Tsing-Hua University - BS in Computer Science
 
 ## Skills
 - Programming: Python, SQL, R, JavaScript
@@ -56,10 +54,10 @@ __Data Scientist__, [MOBAGEL INC](https://mobagel.com/)
 
 ## Projects
 `2021`
-__EPA Review System__ _LineBot, Flask, AWS_ , Built a grading and promoting platform for Taiwanese ENT doctors. 5x efficiency in the evaluation process. [[Demo]](https://www.youtube.com/watch?v=nB1bcGiC-Fg)
+__EPA Review System__ _(LineBot, Flask, AWS)_ , Built a grading and promoting platform for Taiwanese ENT doctors. 5x efficiency in the evaluation process. [[Demo]](https://www.youtube.com/watch?v=nB1bcGiC-Fg)
 
 `2020`
-__Time Series Study__  _ARIMA, fbprohet, Random Forest, XGBoost_ , Proposed a data preprocessing technique “Delta Transformation”, making tree-based models capable of making forecasts on the time series with trend components.[[Slides]](https://drive.google.com/file/d/1zoOWbdjLv7xqhk1bVw7-llSBszcZx1u7/view)
+__Time Series Study__  _(ARIMA, fbprohet, Random Forest, XGBoost)_ , Proposed a data preprocessing technique “Delta Transformation”, making tree-based models capable of making forecasts on the time series with trend components.[[Slides]](https://drive.google.com/file/d/1zoOWbdjLv7xqhk1bVw7-llSBszcZx1u7/view)
 
 `2019`
 __Taxonomy Based Performance Metrics for Evaluating Taxonomic Assignment Methods__, Published a study in metagenomics that addressed the pitfalls in hierarchical multiclass classification. [[Paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2896-0)
