@@ -7,13 +7,14 @@ Analytics Engineer / Data Scientist
 
 [CV](https://ethancychen-tw.github.io/markdown-cv/)
 |
+(424)468-5129
+| 
+Los Angeles, CA
 [ethan.cychen@gmail.com](ethan.cychen@gmail.com) 
 |
 [LinkedIn: ethancychen](https://www.linkedin.com/in/ethancychen/)
 |
 [Github: ethancychen-tw](https://github.com/ethancychen-tw)
-|
-4244685129
 
 
 ## Experience
@@ -40,10 +41,7 @@ __Data Scientist__, [MOBAGEL INC](https://mobagel.com/)
 - Applied predictive analysis techniques to achieve an 80% close rate for enterprise projects, including identifying correlations among products in retailing and detecting low performing ads early resulting in 30% more return on ad spend and 30% cost savings in advertising.
 - Coordinated across departments on design and development of predictive features for internal SDKs, making it "sklearn-compatiable", managing entire projects to deliver effective solutions
 
-## Education
-
-`Sep 2023 - Dec 2024`
-- UNIVISITY OF CALIFORNIA, LOS ANGELES - MS in Business Analytics			 
+## Education	 
 
 `Sep 2015 - Feb 2018`
 - NATIONAL TAIWAN UNIVERSITY - MBA in Information Management
