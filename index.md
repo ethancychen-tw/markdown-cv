@@ -3,26 +3,26 @@ layout: cv
 title: Chung Yen (Ethan) Chen
 ---
 # Chung Yen (Ethan) Chen
-Analytics Engineer / Data Scientist  
-(424) 468-5129 |  Los Angeles, CA
 
-[CV](https://ethancychen-tw.github.io/markdown-cv/)
-|
-[ethan.cychen@gmail.com](ethan.cychen@gmail.com) 
-|
-[LinkedIn: ethancychen](https://www.linkedin.com/in/ethancychen/)
-|
-[Github: ethancychen-tw](https://github.com/ethancychen-tw)
+<div id="webaddress">
+Analytics Engineer / Data Scientist
 
+<br>
+    <a href="https://ethancychen-tw.github.io/markdown-cv/">Resume</a> |
+    <a href="https://www.linkedin.com/in/ethancychen/">LinkedIn</a> | 
+    <a href="https://github.com/ethancychen-tw">Github</a> | 
+    <a href="mailto:ethan.cychen@gmail.com">Email</a>|
+    0975228921 | Taipei, Taiwan
+</div>
 
 ## Experience
 
 `Aug 2022 - Sep 2023`
 __Senior Engineer__, [MEDIATEK INC](https://i.mediatek.com/)
 
-- Led the development and system architectural design of the ELT pipeline on GCP for the service M (a resource usage monitoring system on mobile devices), resulting in 50% increase in efficiency for identifying any abnormalities on resource uasge, allowing departments to quickly access a unified format of data and pinpoint any issues for mobile devices
-- Collaborated with IT department to consider infrastructure constraints for ELT pipeline, selecting appropriate tech stack, including Dash, Redis, and Drone CI, Airflow, Dataform, and developing the data-models and queries needed to create front-end dashboards, reducing analytics processing time of M data by 90%
-- Led technical workshops for 40 individuals in a cross-departmental training to introduce dbt, dataform and share best practices for managing large databases and setting up filter queries
+- Led the development and system architectural design of the ELT pipeline on GCP for the service M (a resource usage monitoring system on mobile devices), resulting in 30x increase in efficiency for identifying any abnormalities on resource, allowing different departments to quickly access a unified format of data and pinpoint any issues for mobile devices.
+- Collaborated with IT department to consider infrastructure constraints for ELT pipeline, selecting appropriate tech stack, including Dash, Redis, and Drone CI, Airflow, Dataform, and developing the data-models and queries needed to create front-end dashboards and handcrafted charts to display M analyses, reducing analytics processing time of M data by 90%
+- Led a technical workshop for 40 individuals in a cross-departmental training to introduce dbt, dataform and share best practices for managing large databases and setting up filter queries
 
 `Aug 2020 - Aug 2022`
 __Senior Data Scientist__, [TRESL INC](https://www.tresl.co/)
@@ -51,6 +51,9 @@ __Data Scientist__, [MOBAGEL INC](https://mobagel.com/)
 - Programming: Python, SQL, R, JavaScript
 - Tech: Flask, Selenium, dbt, dataform, Docker, AWS, GCP, Git, Jira, Airflow
 - Data Science: Machine Learning, Statistics, Time Series, Data Mining
+
+## Project Management
+Scrum, Shape up, Desgin Thinking
 
 ## Projects
 `2021`
