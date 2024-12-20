@@ -6,15 +6,20 @@ title: Chung Yen (Ethan) Chen
 
 <div id="webaddress">
 Analytics Engineer / Data Scientist
-(424) 468-5129 | Los Angeles, CA
+
 <br>
     <a href="https://ethancychen-tw.github.io/markdown-cv/">Resume</a> |
     <a href="https://www.linkedin.com/in/ethancychen/">LinkedIn</a> | 
     <a href="https://github.com/ethancychen-tw">Github</a> | 
-    <a href="mailto:ethan.cychen@gmail.com">Email</a>
+    <a href="mailto:ethan.cychen@gmail.com">Email</a>|
+    0975228921 | Taipei, Taiwan
 </div>
 
 ## Experience
+
+`May 2023 - `
+__Software Engineer__, [GOOGLE LLC](https://www.google.com/)
+- Designed and construct an inhouse dbt-liked data platform from scratch for 20+ functional areas in Pixel Test Engineering. The platform features transparent data catalog, easy to develop and one stop place to configurate data quality tests, data goverance and backfilling. Achieved 5x faster data model development.
 
 `Aug 2022 - Sep 2023`
 __Senior Engineer__, [MediaTek Inc](https://i.mediatek.com/)
