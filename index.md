@@ -18,7 +18,7 @@ Analytics Engineer / Data Scientist
 ## Experience
 
 `May 2023 - `
-__Software Engineer__, [GOOGLE LLC](https://www.google.com/)
+__Software Engineer__, [Google LLC](https://www.google.com/)
 - Designed and construct an inhouse dbt-liked data platform from scratch for 20+ functional areas in Pixel Test Engineering. The platform features transparent data catalog, easy to develop and one stop place to configurate data quality tests, data goverance and backfilling. Achieved 5x faster data model development.
 
 `Aug 2022 - Sep 2023`
